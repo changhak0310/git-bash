@@ -24,3 +24,11 @@ git add .
 git commit -m "커밋 메시지"
 git push
 ```
+
+## Modify
+```
+git status
+git add *
+git commit -m "수정됨"
+git push
+```
