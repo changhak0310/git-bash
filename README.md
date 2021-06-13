@@ -10,13 +10,6 @@ git remote add origin https://github.com/changhak0310/git-bansh.git
 git push -u origin main
 ```
 
-## push an existing repository from the command linegit 
-```
-git remote add origin https://github.com/changhak0310/github.git
-git branch -M main
-git push -u origin main
-```
-
 ## Add
 ```
 git init
