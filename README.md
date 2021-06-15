@@ -28,6 +28,7 @@ git push
 
 ## Branch
 ```
+git init
 git checkout -b <branch>
 git add .
 git commit -m "commit"
