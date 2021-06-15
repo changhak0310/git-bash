@@ -25,3 +25,12 @@ git add *
 git commit -m "수정됨"
 git push
 ```
+
+## Branch
+```
+git checkout -b <branch>
+git add .
+git commit -m "commit"
+git remote add origin https://github.com/changhak0310/git-bansh.git
+git push -u origin <branch>
+```
